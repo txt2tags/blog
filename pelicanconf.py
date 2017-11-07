@@ -8,6 +8,8 @@ SITEURL = ''
 
 PATH = 'content'
 
+THEME = 'relapse'
+
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
