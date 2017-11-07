@@ -1,7 +1,7 @@
 Title: New translation: Finnish
 Date: 2008-07-07 00:07
 Author: aurelio
-Category: Documentation
+Category: Translations
 Slug: new-translation-finnish
 Status: published
 

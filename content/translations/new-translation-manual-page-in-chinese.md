@@ -1,7 +1,7 @@
 Title: New Translation: Manual Page in Chinese
 Date: 2007-07-11 23:17
 Author: aurelio
-Category: Documentation
+Category: Translations
 Slug: new-translation-manual-page-in-chinese
 Status: published
 

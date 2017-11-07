@@ -1,7 +1,7 @@
 Title: New translation: Sample file in Italian
 Date: 2010-12-08 15:58
 Author: aurelio
-Category: Documentation
+Category: Translations
 Slug: new-translation-sample-file-in-italian
 Status: published
 

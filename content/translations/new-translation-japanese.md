@@ -1,7 +1,7 @@
 Title: New translation: Japanese
 Date: 2010-11-18 14:04
 Author: aurelio
-Category: Documentation
+Category: Translations
 Slug: new-translation-japanese
 Status: published
 

@@ -1,7 +1,7 @@
 Title: New Translation: Manual Page in German
 Date: 2006-11-16 15:06
 Author: aurelio
-Category: Documentation
+Category: Translations
 Slug: new-translation-manual-page-in-german
 Status: published
 

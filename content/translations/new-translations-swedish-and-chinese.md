@@ -1,7 +1,7 @@
 Title: New translations: Swedish and Chinese
 Date: 2006-08-10 16:09
 Author: aurelio
-Category: Documentation
+Category: Translations
 Slug: new-translations-swedish-and-chinese
 Status: published
 

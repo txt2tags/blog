@@ -1,7 +1,7 @@
 Title: New translation: Markup Demo in Russian
 Date: 2010-12-08 16:47
 Author: aurelio
-Category: Documentation
+Category: Translations
 Slug: new-translation-markup-demo-in-russian
 Status: published
 

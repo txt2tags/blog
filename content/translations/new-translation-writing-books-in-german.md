@@ -1,7 +1,7 @@
 Title: New Translation: Writing Books in German
 Date: 2006-11-05 11:35
 Author: aurelio
-Category: Documentation
+Category: Translations
 Slug: new-translation-writing-books-in-german
 Status: published
 

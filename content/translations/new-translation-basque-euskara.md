@@ -1,7 +1,7 @@
 Title: New translation: Basque (Euskara)
 Date: 2008-12-08 23:23
 Author: aurelio
-Category: Documentation
+Category: Translations
 Slug: new-translation-basque-euskara
 Status: published
 

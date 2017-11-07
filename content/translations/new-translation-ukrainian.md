@@ -1,7 +1,7 @@
 Title: New translation: Ukrainian
 Date: 2010-08-05 10:15
 Author: aurelio
-Category: Documentation
+Category: Translations
 Slug: new-translation-ukrainian
 Status: published
 

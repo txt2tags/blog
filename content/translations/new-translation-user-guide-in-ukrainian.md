@@ -1,7 +1,7 @@
 Title: New translation: User Guide in Ukrainian
 Date: 2010-12-08 22:08
 Author: aurelio
-Category: Documentation
+Category: Translations
 Slug: new-translation-user-guide-in-ukrainian
 Status: published
 

@@ -1,7 +1,7 @@
 Title: New Translation: User Guide in Chinese
 Date: 2009-03-30 13:08
 Author: aurelio
-Category: Documentation
+Category: Translations
 Slug: new-translation-user-guide-in-chinese
 Status: published
 
