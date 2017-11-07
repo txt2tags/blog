@@ -27,8 +27,8 @@ LINKS = (('Website', 'https://txt2tags.org'),
          ('GitHub', 'https://github.com/txt2tags'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Facebook', 'https://www.facebook.com/txt2tags'),
+          ('Telegram', 'https://www.t.me/txt2tags'),)
 
 DEFAULT_PAGINATION = 10
 
