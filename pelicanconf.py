@@ -10,6 +10,8 @@ PATH = 'content'
 
 THEME = 'relapse'
 
+PLUGINS = ['txt2tags_reader']
+
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'

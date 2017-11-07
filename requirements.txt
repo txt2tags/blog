@@ -1,2 +1,3 @@
 pelican
 markdown
+https://github.com/txt2tags/txt2tags/archive/master.zip
