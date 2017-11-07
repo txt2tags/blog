@@ -1,0 +1,4 @@
+Command used to import the blog content:
+pelican-import -m markdown --wpfile -o content --dir-page --dir-cat txt2tagsblog.wordpress.2017-11-07.xml
+
+With this fix applied https://github.com/getpelican/pelican/pull/2241
