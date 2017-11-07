@@ -4,8 +4,6 @@ Author: aurelio
 Slug: user-comments
 Status: published
 
-<div>
-
 Take a time to write a nice testimonial telling your experience on
 txt2tags. Other people can choose to use it (or not) based on your
 opinion.
@@ -25,5 +23,3 @@ If you have...
     issue](http://code.google.com/p/txt2tags/issues/list).
 -   questions on the program use please post them on the [mailing
     list](http://txt2tags.org/ml.html).
-
-</div>
