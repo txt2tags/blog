@@ -5,7 +5,7 @@ Category: Translations
 Slug: new-translation-user-guide-in-ukrainian
 Status: published
 
-![](http://txt2tags.org/team/img/bunyk.jpg)**Bunyk Taras (Тарас Буник)**
+![](https://txt2tags.org/team/img/bunyk.jpg)**Bunyk Taras (Тарас Буник)**
 translated the User Guide to Ukrainian and published it as a wiki book:
 
 <http://uk.wikibooks.org/wiki/Txt2tags>

@@ -5,7 +5,7 @@ Category: Translations
 Slug: new-translation-ukrainian
 Status: published
 
-![](http://txt2tags.org/team/img/bunyk.jpg)Hello Ukrainian readers!
+![](https://txt2tags.org/team/img/bunyk.jpg)Hello Ukrainian readers!
 
 Your friend **Bunyk Taras (Тарас Буник)** has translated the Sample file
 and the program interface (potfile) for you.
