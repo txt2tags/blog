@@ -6,7 +6,7 @@ Slug: guide-static-sites-with-txt2tags
 Status: published
 
 **Demian Neidetcher** wrote on the [txt2tags
-site](http://txt2tags.sourceforge.net/comments.php) to tell us about a
+site](http://txt2tags.org/comments.php) to tell us about a
 nice guide he has made:
 
 > I love what you guys have done. I decided to re-do my site and came

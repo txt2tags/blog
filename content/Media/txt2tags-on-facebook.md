@@ -5,7 +5,7 @@ Category: Media
 Slug: txt2tags-on-facebook
 Status: published
 
-![](http://txt2tags.sourceforge.net/team/img/eric.jpg)**Eric Forgeot**
+![](http://txt2tags.org/team/img/eric.jpg)**Eric Forgeot**
 strikes [again](/2009/09/17/txt2tags-in-geany-editor/)! He just created
 a special place for you txt2tags users in Facebook. I'll quote Eric's
 announce:

@@ -11,4 +11,4 @@ Your friend **Bunyk Taras (Тарас Буник)** has translated the Sample f
 and the program interface (potfile) for you.
 
 The work is already online on the [documentation
-page](http://txt2tags.sourceforge.net/docs.html).
+page](http://txt2tags.org/docs.html).

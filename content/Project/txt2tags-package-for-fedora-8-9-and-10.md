@@ -5,7 +5,7 @@ Category: Project
 Slug: txt2tags-package-for-fedora-8-9-and-10
 Status: published
 
-[![](http://txt2tags.sourceforge.net/team/img/adam-miller.jpg)](http://maxamillion.googlepages.com/)
+[![](http://txt2tags.org/team/img/adam-miller.jpg)](http://maxamillion.googlepages.com/)
 
 > I am happy to announce that I have become an official Fedora Packager
 > and effective today txt2tags is available from the Fedora Official

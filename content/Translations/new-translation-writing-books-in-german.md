@@ -6,10 +6,10 @@ Slug: new-translation-writing-books-in-german
 Status: published
 
 Hello! Just a quick post to inform you that [the
-team](http://txt2tags.sourceforge.net/team/) grew even more:
+team](http://txt2tags.org/team/) grew even more:
 
 -   **Michael Malien** translated the Writing Books to German.
 -   **Martin J. Ponce** revised the Spanish program messages (potfile).
 
 Their work is already online on the [documentation
-page](http://txt2tags.sourceforge.net/docs.html).
+page](http://txt2tags.org/docs.html).

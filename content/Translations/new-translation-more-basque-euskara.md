@@ -5,7 +5,7 @@ Category: Translations
 Slug: new-translation-more-basque-euskara
 Status: published
 
-![](http://txt2tags.sourceforge.net/team/img/shagi.jpg)Hello Euskara
+![](http://txt2tags.org/team/img/shagi.jpg)Hello Euskara
 readers!
 
 Your friend **Ales Zabala Alava** has made it again!
@@ -15,4 +15,4 @@ work](/2008/12/08/new-translation-basque-euskara/), now he has
 translated the Manual Page and the program interface (potfile) for you.
 
 The work is already online on the [documentation
-page](http://txt2tags.sourceforge.net/docs.html).
+page](http://txt2tags.org/docs.html).

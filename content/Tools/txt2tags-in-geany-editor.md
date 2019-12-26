@@ -5,7 +5,7 @@ Category: Tools
 Slug: txt2tags-in-geany-editor
 Status: published
 
-![](http://txt2tags.sourceforge.net/team/img/eric.jpg)**Eric Forgeot**
+![](http://txt2tags.org/team/img/eric.jpg)**Eric Forgeot**
 has exciting news for Geany users and txt2tags fans:
 
 > There is now support for txt2tags into Geany:  

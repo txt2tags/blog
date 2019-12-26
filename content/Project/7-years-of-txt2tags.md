@@ -35,12 +35,12 @@ Talking about marks, have you ever needed to ~~strikeout~~ something?
 Now you can! Txt2tags 2.5 brings a new mark: `--`strike`--`. Simple!
 
 There's also a [new PHP
-interface](http://txt2tags.sourceforge.net/online.php), better UTF-8
+interface](http://txt2tags.org/online.php), better UTF-8
 support, local links for LaTeX, [new
-tools](http://txt2tags.sourceforge.net/tools.html) and more!
+tools](http://txt2tags.org/tools.html) and more!
 
 Check out the new guide: [How to add a new target to
-txt2tags](http://txt2tags.sourceforge.net/new-target.html). I guess the
+txt2tags](http://txt2tags.org/new-target.html). I guess the
 name is self-describing, right? How about to get involved to the
 project, adding a new target?
 
@@ -52,5 +52,5 @@ projects](http://www.nothickmanuals.info/doku.php/donations). Thank you
 Dmitri!
 
 What now? [Try the new
-version](http://txt2tags.sourceforge.net/online.php) (online) and
-[download it](http://txt2tags.sourceforge.net/download.html).
+version](http://txt2tags.org/online.php) (online) and
+[download it](http://txt2tags.org/download.html).

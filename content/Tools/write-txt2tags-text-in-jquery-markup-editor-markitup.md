@@ -10,7 +10,7 @@ buttons for bold, italic, lists, links, etc.? Dream no more!
 
 [![](http://txt2tags.files.wordpress.com/2010/10/markitup.png "markitup")](http://etxt2tags.appspot.com/)
 
-![](http://txt2tags.sourceforge.net/team/img/fgallaire.jpg)[Florent
+![](http://txt2tags.org/team/img/fgallaire.jpg)[Florent
 Gallaire](http://fgallaire.flext.net) has added txt2tags support for
 [markitUp!](http://markitup.jaysalvat.com/), the jQuery universal markup
 editor. Now you can add to any website a real nice text editor that

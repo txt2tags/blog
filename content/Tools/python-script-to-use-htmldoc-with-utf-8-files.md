@@ -6,7 +6,7 @@ Slug: python-script-to-use-htmldoc-with-utf-8-files
 Status: published
 
 You know, [HTMLDOC](http://www.htmldoc.org/) is a good tool to
-complement [txt2tags](http://txt2tags.sourceforge.net) features,
+complement [txt2tags](http://txt2tags.org) features,
 specially to [break an HTML file into multiple
 pages](/2006/08/31/split-html-in-multiple-pages/).
 

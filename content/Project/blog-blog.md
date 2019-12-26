@@ -32,4 +32,4 @@ can talk and contribute, changing the monologue to a nice conversation.
 It's up and running. Enjoy!
 
 > Note: Here are [the older
-> news](http://txt2tags.sourceforge.net/oldnews.html), just in case.
+> news](http://txt2tags.org/oldnews.html), just in case.

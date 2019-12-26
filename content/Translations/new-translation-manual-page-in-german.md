@@ -9,4 +9,4 @@ Status: published
 German. You know, manpage. That thing UNIX users love to hate.
 
 His work is already online on the [documentation
-page](http://txt2tags.sourceforge.net/docs.html).
+page](http://txt2tags.org/docs.html).

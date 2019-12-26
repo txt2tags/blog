@@ -20,7 +20,7 @@ If you click at the image above, I guess you'll recognize those === and
 \*\* from somewhere... :)
 
 RedNotebook uses[txt2tags
-markup](http://txt2tags.sourceforge.net/markup.html) to store the diary
+markup](http://txt2tags.org/markup.html) to store the diary
 contents and also uses the [txt2tags
 code](http://code.google.com/p/txt2tags/source/browse/trunk/txt2tags) to
 format it. It's another nice example of a Python program using [txt2tags

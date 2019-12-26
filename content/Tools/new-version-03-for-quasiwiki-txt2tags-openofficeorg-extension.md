@@ -9,7 +9,7 @@ Status: published
 version](http://quasiwiki.sourceforge.net/download.html) for his
 impressive [QuasiWiki](http://www.quasiwiki.org/), an OpenOffice.org
 extension that lets you use [the txt2tags
-markup](http://txt2tags.sourceforge.net/markup.html) in Office
+markup](http://txt2tags.org/markup.html) in Office
 documents!
 
 > Dmitri says: "I thought you would like to know that I've released

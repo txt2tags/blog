@@ -114,7 +114,7 @@ Created in 2001, txt2tags is a document generator. It can convert a simple text 
 
 Translated to several languages, GPL licensed, written in Python, works like a charm in Windows, Linux and Mac.
 
-Jump to the <a href="http://txt2tags.sourceforge.net/">txt2tags website</a> to learn more about the program, or <a href="http://txt2tags.sourceforge.net/online.php">try now the online demo</a>.
+Jump to the <a href="http://txt2tags.org/">txt2tags website</a> to learn more about the program, or <a href="http://txt2tags.org/online.php">try now the online demo</a>.
 
 Enjoy!]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -284,7 +284,7 @@ But my favorite feature is having comments for each post. Now everybody can talk
 
 It's up and running. Enjoy!
 
-<blockquote>Note: Here are <a href="http://txt2tags.sourceforge.net/oldnews.html">the older news</a>, just in case. </blockquote>]]></content:encoded>
+<blockquote>Note: Here are <a href="http://txt2tags.org/oldnews.html">the older news</a>, just in case. </blockquote>]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>5</wp:post_id>
   <wp:post_date>2006-07-26 17:00:29</wp:post_date>
@@ -327,7 +327,7 @@ Parece que os gringos descobriram o txt2tags!]]></wp:comment_content>
   <dc:creator>aurelio</dc:creator>
   <guid isPermaLink="false">https://txt2tags.wordpress.com/2006/07/26/new-green-site/</guid>
   <description/>
-  <content:encoded><![CDATA[We've had enough of that <a href="http://txt2tags.sf.net/index-old.html">gray/blue scary site</a>, don't we? The <a href="http://txt2tags.sourceforge.net">new txt2tags site</a> is green and was redesigned from scratch.
+  <content:encoded><![CDATA[We've had enough of that <a href="http://txt2tags.sf.net/index-old.html">gray/blue scary site</a>, don't we? The <a href="http://txt2tags.org">new txt2tags site</a> is green and was redesigned from scratch.
 
 The problem with the old site (besides its ugliness) was that the menu only appeared in the main page. You follow any link, the menu vanishes. Don't blame me, I'm a programmer, not a webmaster :)
 
@@ -885,7 +885,7 @@ There's a nice article about text-only writing at Linux.com. Three tools are men
 
 Check it out! <a href="http://www.linux.com/archive/feed/56506">Minimalist tools for writers</a> by Dmitri Popov.
 
-For more detailed information, read the <a href="http://txt2tags.sourceforge.net/writing-book.html">Writing Books with Txt2tags</a> document.]]></content:encoded>
+For more detailed information, read the <a href="http://txt2tags.org/writing-book.html">Writing Books with Txt2tags</a> document.]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>13</wp:post_id>
   <wp:post_date>2006-08-25 23:41:26</wp:post_date>
@@ -1679,7 +1679,7 @@ in .vimrc for vim, you can add : [code]au BufNewFile,BufRead *.t2t map 2o :w&lt;
   <dc:creator>aurelio</dc:creator>
   <guid isPermaLink="false">http://txt2tags.wordpress.com/2006/11/09/quasiwiki-txt2tags-extension-for-openofficeorg/</guid>
   <description/>
-  <content:encoded><![CDATA[Dmitri Popov, the kind txt2tags user that <a href="http://txt2tags.wordpress.com/2006/08/25/quit-your-text-processor/">wrote an interesting article on Linux.com</a>, strikes again! This time he created an extension so you can use the beloved <a href="http://txt2tags.sourceforge.net/markup.html">txt2tags markup</a> into <a href="http://www.openoffice.org">OpenOffice.org</a>!
+  <content:encoded><![CDATA[Dmitri Popov, the kind txt2tags user that <a href="http://txt2tags.wordpress.com/2006/08/25/quit-your-text-processor/">wrote an interesting article on Linux.com</a>, strikes again! This time he created an extension so you can use the beloved <a href="http://txt2tags.org/markup.html">txt2tags markup</a> into <a href="http://www.openoffice.org">OpenOffice.org</a>!
 
 I'll quote Dmitri:
 <blockquote>I thought you would like to know that I've released a txt2tags extension for OpenOffice.org. This is an initial release, and currently it only includes the basic formatting (more advanced version is in works). Using the extension you can use txt2tags with OpenOffice.org Writer documents. Further info is available at: <a href="http://quasiwiki.sourceforge.net/">http://quasiwiki.sourceforge.net</a></blockquote>
@@ -1786,7 +1786,7 @@ http://quasiwiki.sourceforge.net/]]></wp:comment_content>
   <dc:creator>aurelio</dc:creator>
   <guid isPermaLink="false">http://txt2tags.wordpress.com/2006/11/05/new-translation-writing-books-in-german/</guid>
   <description/>
-  <content:encoded><![CDATA[Hello! Just a quick post to inform you that <a href="http://txt2tags.sourceforge.net/team/">the team</a> grew even more:
+  <content:encoded><![CDATA[Hello! Just a quick post to inform you that <a href="http://txt2tags.org/team/">the team</a> grew even more:
 
 <ul>
 <li><strong>Michael Malien</strong> translated the Writing Books to German.
@@ -1795,7 +1795,7 @@ http://quasiwiki.sourceforge.net/]]></wp:comment_content>
 </li>
 </ul>
 
-Their work is already online on the <a href="http://txt2tags.sourceforge.net/docs.html">documentation page</a>.]]></content:encoded>
+Their work is already online on the <a href="http://txt2tags.org/docs.html">documentation page</a>.]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>18</wp:post_id>
   <wp:post_date>2006-11-05 11:35:14</wp:post_date>
@@ -1986,7 +1986,7 @@ Support the Free Software/Open Source model, support the people.]]></content:enc
   <description/>
   <content:encoded><![CDATA[<strong>Michael Malien</strong> strikes again! Now he translated the Manual Page to German. You know, manpage. That thing UNIX users love to hate.
 
-His work is already online on the <a href="http://txt2tags.sourceforge.net/docs.html">documentation page</a>.]]></content:encoded>
+His work is already online on the <a href="http://txt2tags.org/docs.html">documentation page</a>.]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>25</wp:post_id>
   <wp:post_date>2006-11-16 15:06:20</wp:post_date>
@@ -2360,7 +2360,7 @@ Off-topic: Have you noticed the two Matthias on the recent news? :)]]></content:
   <dc:creator>aurelio</dc:creator>
   <guid isPermaLink="false">http://txt2tags.wordpress.com/2007/03/28/new-version-03-for-quasiwiki-txt2tags-openofficeorg-extension/</guid>
   <description/>
-  <content:encoded><![CDATA[<strong>Dmitri Popov</strong> wrote me to tell that there's <a href="http://quasiwiki.sourceforge.net/download.html">a new version</a> for his impressive <a href="http://www.quasiwiki.org/">QuasiWiki</a>, an OpenOffice.org extension that lets you use <a href="http://txt2tags.sourceforge.net/markup.html">the txt2tags markup</a> in Office documents!
+  <content:encoded><![CDATA[<strong>Dmitri Popov</strong> wrote me to tell that there's <a href="http://quasiwiki.sourceforge.net/download.html">a new version</a> for his impressive <a href="http://www.quasiwiki.org/">QuasiWiki</a>, an OpenOffice.org extension that lets you use <a href="http://txt2tags.org/markup.html">the txt2tags markup</a> in Office documents!
 
 <blockquote>Dmitri says: "I thought you would like to know that I've released version 0.3 of the txt2tags extension for OpenOffice.org. The new release features some nice icons, bug fixes, and a few code tweaks."</blockquote>]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2456,7 +2456,7 @@ Off-topic: Have you noticed the two Matthias on the recent news? :)]]></content:
   <description/>
   <content:encoded><![CDATA[If you're one lucky guy/girl that owns a copy of the excellent <a href="http://macromates.com/">TextMate text editor</a>, listen on and prepare the "Hooray!".
 
-I'm a recently converted TextMate user and as you may wonder, to edit txt2tags files is part of my <strong>everyday</strong> routine. <a href="http://aurelio.net/en/">Websites</a>, articles and books, everything is <a href="http://txt2tags.sourceforge.net/markup.html">t2t-marked</a>.
+I'm a recently converted TextMate user and as you may wonder, to edit txt2tags files is part of my <strong>everyday</strong> routine. <a href="http://aurelio.net/en/">Websites</a>, articles and books, everything is <a href="http://txt2tags.org/markup.html">t2t-marked</a>.
 
 For a few days I've used TextMate on the "black &amp; white mode" and that was real unsexy. A decade of <a href="http://www.vim.org">Vim</a> hardcore use told me that syntax highlight is a <a href="http://en.wikipedia.org/wiki/Good_Thing">Good Thing</a>.
 <blockquote>I'm the Great Cornholio! I need some T.P. for my <a href="http://macromates.com/wiki/Main/Bundles">Bundle</a>!</blockquote>
@@ -2479,7 +2479,7 @@ Press <code>Command-Esc</code> at any time to get the key listing:
 <img src="http://txt2tags.files.wordpress.com/2007/03/t2tmate-keys.png" alt="t2tmate Keyboard Shortcuts" />
 
 Tip: Use keyboard shortcuts for selected text, use tab triggers for to-be-typed text.</li>
-	<li><strong>Tab Triggers for all settings and macros</strong>Never read the <a href="http://txt2tags.sourceforge.net/userguide/">Txt2tags User Guide</a> anymore. Just type the setting name followed by a Tab to have all it's arguments shown. And what about those <a href="http://txt2tags.sourceforge.net/userguide/date.html#7_1">funky "%Y %m"</a> for the %%date macro? No problem, type "date" and hit Tab.</li>
+	<li><strong>Tab Triggers for all settings and macros</strong>Never read the <a href="http://txt2tags.org/userguide/">Txt2tags User Guide</a> anymore. Just type the setting name followed by a Tab to have all it's arguments shown. And what about those <a href="http://txt2tags.org/userguide/date.html#7_1">funky "%Y %m"</a> for the %%date macro? No problem, type "date" and hit Tab.</li>
 	<li><strong>Drag'n'drop support</strong>Images, other txt2tags files and HTML files. Just drag them to the editor and watch the magic happening!</li>
 	<li><strong>Ready-to-use template for UNIX man pages</strong>Load the template, fill your program's data and there it is: you have a full featured man page. To start, choose <code>File &gt; New From Template &gt; Txt2tags &gt; Manual Page (man)</code>.</li>
 	<li><strong>Painless conversion process</strong>There are several shortcuts to automate the conversion process and see the results.
@@ -2712,7 +2712,7 @@ https://github.com/textmate/txt2tags.tmbundle]]></wp:comment_content>
   <dc:creator>aurelio</dc:creator>
   <guid isPermaLink="false">http://txt2tags.wordpress.com/2007/05/01/guide-static-sites-with-txt2tags/</guid>
   <description/>
-  <content:encoded><![CDATA[<strong>Demian Neidetcher</strong> wrote on the <a href="http://txt2tags.sourceforge.net/comments.php">txt2tags site</a> to tell us about a nice guide he has made:
+  <content:encoded><![CDATA[<strong>Demian Neidetcher</strong> wrote on the <a href="http://txt2tags.org/comments.php">txt2tags site</a> to tell us about a nice guide he has made:
 
 <blockquote>I love what you guys have done. I decided to re-do my site and came across this. I did a write-up on my site that explains the process I used with txt2tags.</blockquote>
 
@@ -2871,7 +2871,7 @@ Thanks again Dmitri!]]></content:encoded>
   <dc:creator>aurelio</dc:creator>
   <guid isPermaLink="false">http://txt2tags.wordpress.com/2007/06/19/txt2tags-and-gedit/</guid>
   <description/>
-  <content:encoded><![CDATA[Stefano D'Archino <a href="http://sourceforge.net/mailarchive/message.php?msg_name=1181733636.6458.3.camel%40amilo">told us</a> about his new creation: the <a href="http://txt2tags.sourceforge.net/tools/txt2tags-gedit.lang">txt2tags language file for gedit</a>.
+  <content:encoded><![CDATA[Stefano D'Archino <a href="http://sourceforge.net/mailarchive/message.php?msg_name=1181733636.6458.3.camel%40amilo">told us</a> about his new creation: the <a href="http://txt2tags.org/tools/txt2tags-gedit.lang">txt2tags language file for gedit</a>.
 
 His instructions follows:
 
@@ -3120,9 +3120,9 @@ new version seems to break it?
   <description/>
   <content:encoded><![CDATA[Hey, China! <strong>Abby Pan</strong> has just translated the Manual Page to your language.
 
-Abby's work is already online on the <a href="http://txt2tags.sourceforge.net/docs.html">documentation page</a>.
+Abby's work is already online on the <a href="http://txt2tags.org/docs.html">documentation page</a>.
 
-<a href="http://txt2tags.sourceforge.net/zh/manpage-zh.html"><img src='http://txt2tags.files.wordpress.com/2007/07/man-chinese.png' alt='Txt2tags Manual Page in Chinese' /></a>
+<a href="http://txt2tags.org/zh/manpage-zh.html"><img src='http://txt2tags.files.wordpress.com/2007/07/man-chinese.png' alt='Txt2tags Manual Page in Chinese' /></a>
 
 
 
@@ -3396,7 +3396,7 @@ Go to <a href="http://www.davefancella.com/software/gensite.html">Dave's site</a
   <dc:creator>aurelio</dc:creator>
   <guid isPermaLink="false">http://txt2tags.wordpress.com/?p=61</guid>
   <description/>
-  <content:encoded><![CDATA[You know, <a href="http://www.htmldoc.org/">HTMLDOC</a> is a good tool to complement <a href="http://txt2tags.sourceforge.net">txt2tags</a> features, specially to <a href="/2006/08/31/split-html-in-multiple-pages/">break an HTML file into multiple pages</a>.
+  <content:encoded><![CDATA[You know, <a href="http://www.htmldoc.org/">HTMLDOC</a> is a good tool to complement <a href="http://txt2tags.org">txt2tags</a> features, specially to <a href="/2006/08/31/split-html-in-multiple-pages/">break an HTML file into multiple pages</a>.
 
 But the current version of HTMLDOC (1.8.x) <a href="http://www.easysw.com/htmldoc/faq.php?27#27">has no Unicode support</a>.
 
@@ -3652,11 +3652,11 @@ Enjoy!]]></wp:comment_content>
   <dc:creator>aurelio</dc:creator>
   <guid isPermaLink="false">http://txt2tags.wordpress.com/?p=62</guid>
   <description/>
-  <content:encoded><![CDATA[<img class="alignright" src="http://txt2tags.sourceforge.net/team/img/mikko.jpg" alt="" width="64" height="64" />Hello Finland and Finnish readers!
+  <content:encoded><![CDATA[<img class="alignright" src="http://txt2tags.org/team/img/mikko.jpg" alt="" width="64" height="64" />Hello Finland and Finnish readers!
 
 Your friend <strong>Mikko J Piippo</strong> from Helsinki has translated the Sample file and the program interface (potfile) for you.
 
-The work is already online on the <a href="http://txt2tags.sourceforge.net/docs.html">documentation page</a>.]]></content:encoded>
+The work is already online on the <a href="http://txt2tags.org/docs.html">documentation page</a>.]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>62</wp:post_id>
   <wp:post_date>2008-07-07 00:07:38</wp:post_date>
@@ -3702,13 +3702,13 @@ Keep using the same **marks** //you// __already__ <code>``</code>know<code>``</c
 
 Talking about marks, have you ever needed to <del>strikeout</del> something? Now you can! Txt2tags 2.5 brings a new mark: <code>--</code>strike<code>--</code>. Simple!
 
-There's also a <a href="http://txt2tags.sourceforge.net/online.php">new PHP interface</a>, better UTF-8 support, local links for LaTeX, <a href="http://txt2tags.sourceforge.net/tools.html">new tools</a> and more!
+There's also a <a href="http://txt2tags.org/online.php">new PHP interface</a>, better UTF-8 support, local links for LaTeX, <a href="http://txt2tags.org/tools.html">new tools</a> and more!
 
-Check out the new guide: <a href="http://txt2tags.sourceforge.net/new-target.html">How to add a new target to txt2tags</a>. I guess the name is self-describing, right? How about to get involved to the project, adding a new target?
+Check out the new guide: <a href="http://txt2tags.org/new-target.html">How to add a new target to txt2tags</a>. I guess the name is self-describing, right? How about to get involved to the project, adding a new target?
 
 Talking about collaboration, this release was sponsored by a generous donation from  <strong>Dmitri Popov</strong>, who runs the <a href="http://www.nothickmanuals.info">No Thick Manuals</a> site and <a href="http://www.nothickmanuals.info/doku.php/donations">have already helped lots of open source projects</a>. Thank you Dmitri!
 
-What now? <a href="http://txt2tags.sourceforge.net/online.php">Try the new version</a> (online) and <a href="http://txt2tags.sourceforge.net/download.html">download it</a>.]]></content:encoded>
+What now? <a href="http://txt2tags.org/online.php">Try the new version</a> (online) and <a href="http://txt2tags.org/download.html">download it</a>.]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>65</wp:post_id>
   <wp:post_date>2008-07-26 22:18:10</wp:post_date>
@@ -3976,7 +3976,7 @@ See you again for 10 years anniversary.]]></wp:comment_content>
   <dc:creator>aurelio</dc:creator>
   <guid isPermaLink="false">http://txt2tags.wordpress.com/?p=72</guid>
   <description/>
-  <content:encoded><![CDATA[<a href="http://maxamillion.googlepages.com/"><img class="alignright" src="http://txt2tags.sourceforge.net/team/img/adam-miller.jpg" alt="" width="64" height="64" /></a>
+  <content:encoded><![CDATA[<a href="http://maxamillion.googlepages.com/"><img class="alignright" src="http://txt2tags.org/team/img/adam-miller.jpg" alt="" width="64" height="64" /></a>
 <blockquote>I am happy to announce that I have become an official Fedora Packager and effective today txt2tags is available from the Fedora Official repositories for Fedora 8 and Fedora 9 from the Updates repository and will be included in Fedora 10 as part of its initial release main repository.
 --- Adam Miller</blockquote>
 Well, Adam said it all, start your yum engines!
@@ -4025,11 +4025,11 @@ Well, Adam said it all, start your yum engines!
   <dc:creator>aurelio</dc:creator>
   <guid isPermaLink="false">http://txt2tags.wordpress.com/?p=106</guid>
   <description/>
-  <content:encoded><![CDATA[<img class="alignright" src="http://txt2tags.sourceforge.net/team/img/darchino.jpg" alt="" width="64" height="64" /><strong>Stefano D'Archino</strong> did it again. First he made the <a href="http://txt2tags.wordpress.com/2007/06/19/txt2tags-and-gedit/">Gedit syntax file</a>, so you can get nice colors in your txt2tags source files. Now he made new syntax files for the following text editors: JOE, "le" and "ne"!
+  <content:encoded><![CDATA[<img class="alignright" src="http://txt2tags.org/team/img/darchino.jpg" alt="" width="64" height="64" /><strong>Stefano D'Archino</strong> did it again. First he made the <a href="http://txt2tags.wordpress.com/2007/06/19/txt2tags-and-gedit/">Gedit syntax file</a>, so you can get nice colors in your txt2tags source files. Now he made new syntax files for the following text editors: JOE, "le" and "ne"!
 
 If you're using one of these editors, install the Stefano files and enjoy your new colorful life :)
 
-You can get those files at the <a href="http://txt2tags.sourceforge.net/tools.html">tools page</a>, in txt2tags website.]]></content:encoded>
+You can get those files at the <a href="http://txt2tags.org/tools.html">tools page</a>, in txt2tags website.]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>106</wp:post_id>
   <wp:post_date>2009-03-31 10:50:29</wp:post_date>
@@ -4076,11 +4076,11 @@ Thanks a lot. -- Todd]]></wp:comment_content>
   <dc:creator>aurelio</dc:creator>
   <guid isPermaLink="false">http://txt2tags.wordpress.com/?p=79</guid>
   <description/>
-  <content:encoded><![CDATA[<img class="alignright" src="http://txt2tags.sourceforge.net/team/img/shagi.jpg" alt="" width="64" height="64" />Hello <a href="http://en.wikipedia.org/wiki/Basque_language">Euskara</a> readers!
+  <content:encoded><![CDATA[<img class="alignright" src="http://txt2tags.org/team/img/shagi.jpg" alt="" width="64" height="64" />Hello <a href="http://en.wikipedia.org/wiki/Basque_language">Euskara</a> readers!
 
 Your friend <strong>Ales Zabala Alava</strong> has translated the Markup Demo and the Sample file for you.
 
-The work is already online on the <a href="http://txt2tags.sourceforge.net/docs.html">documentation page</a>.]]></content:encoded>
+The work is already online on the <a href="http://txt2tags.org/docs.html">documentation page</a>.]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>79</wp:post_id>
   <wp:post_date>2008-12-08 23:23:50</wp:post_date>
@@ -4147,7 +4147,7 @@ Read the full Huahai article: <a href="http://yyhh.org/blog/2008/01/txt2tags-li
 <a href="http://digitaldump.files.wordpress.com/2008/11/rn-053-1.png"><img class="alignnone" src="http://digitaldump.files.wordpress.com/2008/11/rn-053-1.png?w=300&amp;h=231" alt="" width="300" height="231" /></a></blockquote>
 If you click at the image above, I guess you'll recognize those === and ** from somewhere... :)
 
-RedNotebook uses<a href="http://txt2tags.sourceforge.net/markup.html"> txt2tags markup</a> to store the diary contents and also uses the <a href="http://code.google.com/p/txt2tags/source/browse/trunk/txt2tags">txt2tags code</a> to format it. It's another nice example of a Python program using <a href="http://code.google.com/p/txt2tags/source/browse/trunk/#trunk/samples/module">txt2tags as a module</a>.
+RedNotebook uses<a href="http://txt2tags.org/markup.html"> txt2tags markup</a> to store the diary contents and also uses the <a href="http://code.google.com/p/txt2tags/source/browse/trunk/txt2tags">txt2tags code</a> to format it. It's another nice example of a Python program using <a href="http://code.google.com/p/txt2tags/source/browse/trunk/#trunk/samples/module">txt2tags as a module</a>.
 
 What about writing your notes using our beloved markup in that beautiful application? <a href="http://digitaldump.wordpress.com/projects/rednotebook/">Give it a try</a>!]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4214,10 +4214,10 @@ It seems that the syntax differs from the original txt2tags.]]></wp:comment_cont
   <dc:creator>aurelio</dc:creator>
   <guid isPermaLink="false">http://txt2tags.wordpress.com/?p=94</guid>
   <description/>
-  <content:encoded><![CDATA[Chinese people, your wishes came true: the big <a href="http://txt2tags.sourceforge.net/userguide/">Txt2tags User Guide</a> is now available in your language!
+  <content:encoded><![CDATA[Chinese people, your wishes came true: the big <a href="http://txt2tags.org/userguide/">Txt2tags User Guide</a> is now available in your language!
 
-<strong><img class="alignright" src="http://txt2tags.sourceforge.net/team/img/chrisleng.jpg" alt="" width="64" height="64" />Chris Leng</strong> (冷悦) worked hard to beat the monster, and the result is a <a href="http://txt2tags.sourceforge.net/zh/userguide-zh.pdf">beautiful 61-pages PDF</a> with the full User Guide translated to Chinese (including the screenshots!).
-<p style="text-align:center;"><a href="http://txt2tags.sourceforge.net/zh/userguide-zh.pdf"><img class="aligncenter size-full wp-image-95" style="clear:both;" title="userguide-chinese" src="http://txt2tags.files.wordpress.com/2009/03/userguide-chinese.jpg" alt="userguide-chinese" width="350" height="389" /></a></p>
+<strong><img class="alignright" src="http://txt2tags.org/team/img/chrisleng.jpg" alt="" width="64" height="64" />Chris Leng</strong> (冷悦) worked hard to beat the monster, and the result is a <a href="http://txt2tags.org/zh/userguide-zh.pdf">beautiful 61-pages PDF</a> with the full User Guide translated to Chinese (including the screenshots!).
+<p style="text-align:center;"><a href="http://txt2tags.org/zh/userguide-zh.pdf"><img class="aligncenter size-full wp-image-95" style="clear:both;" title="userguide-chinese" src="http://txt2tags.files.wordpress.com/2009/03/userguide-chinese.jpg" alt="userguide-chinese" width="350" height="389" /></a></p>
 
 Great work Chris, thanks!]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4270,13 +4270,13 @@ Great work Chris, thanks!]]></content:encoded>
   <dc:creator>aurelio</dc:creator>
   <guid isPermaLink="false">http://txt2tags.wordpress.com/?p=108</guid>
   <description/>
-  <content:encoded><![CDATA[<img class="alignright" src="http://txt2tags.sourceforge.net/team/img/shagi.jpg" alt="" width="64" height="64" />Hello Euskara readers!
+  <content:encoded><![CDATA[<img class="alignright" src="http://txt2tags.org/team/img/shagi.jpg" alt="" width="64" height="64" />Hello Euskara readers!
 
 Your friend <strong>Ales Zabala Alava</strong> has made it again!
 
 After his <a href="/2008/12/08/new-translation-basque-euskara/">previous translation work</a>, now he has translated the Manual Page and the program interface (potfile) for you.
 
-The work is already online on the <a href="http://txt2tags.sourceforge.net/docs.html">documentation page</a>.]]></content:encoded>
+The work is already online on the <a href="http://txt2tags.org/docs.html">documentation page</a>.]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>108</wp:post_id>
   <wp:post_date>2009-07-10 21:41:49</wp:post_date>
@@ -4418,7 +4418,7 @@ Thanks once again for your great document!]]></wp:comment_content>
   <dc:creator>aurelio</dc:creator>
   <guid isPermaLink="false">http://txt2tags.wordpress.com/?p=114</guid>
   <description/>
-  <content:encoded><![CDATA[<img class="alignright" src="http://txt2tags.sourceforge.net/team/img/eric.jpg" alt="" width="64" height="64" /><strong>Eric Forgeot</strong> has exciting news for Geany users and txt2tags fans:
+  <content:encoded><![CDATA[<img class="alignright" src="http://txt2tags.org/team/img/eric.jpg" alt="" width="64" height="64" /><strong>Eric Forgeot</strong> has exciting news for Geany users and txt2tags fans:
 <blockquote>There is now support for txt2tags into Geany:
 <a style="color:#112508;" href="http://geany.svn.sourceforge.net/viewvc/geany/trunk/tagmanager/txt2tags.c?view=log" target="_blank">http://geany.svn.sourceforge.net/viewvc/geany/trunk/tagmanager/txt2tags.c?view=log</a>
 
@@ -4547,7 +4547,7 @@ And please post a screenshot of what you consider to be a good practice in scree
   <dc:creator>aurelio</dc:creator>
   <guid isPermaLink="false">http://txt2tags.wordpress.com/?p=119</guid>
   <description/>
-  <content:encoded><![CDATA[<img class="alignright" src="http://txt2tags.sourceforge.net/team/img/eric.jpg" alt="" width="64" height="64" /><strong>Eric Forgeot</strong> strikes <a href="/2009/09/17/txt2tags-in-geany-editor/">again</a>! He just created a special place for you txt2tags users in Facebook. I'll quote Eric's announce:
+  <content:encoded><![CDATA[<img class="alignright" src="http://txt2tags.org/team/img/eric.jpg" alt="" width="64" height="64" /><strong>Eric Forgeot</strong> strikes <a href="/2009/09/17/txt2tags-in-geany-editor/">again</a>! He just created a special place for you txt2tags users in Facebook. I'll quote Eric's announce:
 <blockquote>Hello,
 
 I've made a fan page for txt2tags on facebook.
@@ -4655,7 +4655,7 @@ Hurry up, login to your Facebook and search for the txt2tags fan page!
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[http://txt2tags.sourceforge.net]]></wp:meta_value>
+    <wp:meta_value><![CDATA[http://txt2tags.org]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -4765,7 +4765,7 @@ Hurry up, login to your Facebook and search for the txt2tags fan page!
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[http://txt2tags.sourceforge.net/download.html]]></wp:meta_value>
+    <wp:meta_value><![CDATA[http://txt2tags.org/download.html]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -4820,7 +4820,7 @@ Hurry up, login to your Facebook and search for the txt2tags fan page!
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[http://txt2tags.sourceforge.net/online.php]]></wp:meta_value>
+    <wp:meta_value><![CDATA[http://txt2tags.org/online.php]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -4834,7 +4834,7 @@ Hurry up, login to your Facebook and search for the txt2tags fan page!
 
 Your friend <strong>Bunyk Taras (Тарас Буник)</strong> has translated the Sample file and the program interface (potfile) for you.
 
-The work is already online on the <a href="http://txt2tags.sourceforge.net/docs.html">documentation page</a>.]]></content:encoded>
+The work is already online on the <a href="http://txt2tags.org/docs.html">documentation page</a>.]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>135</wp:post_id>
   <wp:post_date>2010-08-05 10:15:10</wp:post_date>
@@ -4870,7 +4870,7 @@ The work is already online on the <a href="http://txt2tags.sourceforge.net/docs.
   <dc:creator>aurelio</dc:creator>
   <guid isPermaLink="false">http://txt2tags.wordpress.com/?p=140</guid>
   <description/>
-  <content:encoded><![CDATA[<img class="alignright" src="http://txt2tags.sourceforge.net/team/img/eric.jpg" alt="" width="64" height="64" /><a href="http://anamnese.online.fr/site2/index.php?page=txt2tags">Eric Forgeot</a>, our <a href="http://txt2tags.wordpress.com/2010/03/03/txt2tags-on-facebook/">tireless</a> <a href="http://txt2tags.wordpress.com/2009/09/17/txt2tags-in-geany-editor/">contributor</a>, now comes with a nice solution for those inspired LaTeX lovers who prefer the simple txt2tags markup: <a href="http://anamnese.online.fr/site2/textallion/samples/presentation.html">TeXtallion</a>.
+  <content:encoded><![CDATA[<img class="alignright" src="http://txt2tags.org/team/img/eric.jpg" alt="" width="64" height="64" /><a href="http://anamnese.online.fr/site2/index.php?page=txt2tags">Eric Forgeot</a>, our <a href="http://txt2tags.wordpress.com/2010/03/03/txt2tags-on-facebook/">tireless</a> <a href="http://txt2tags.wordpress.com/2009/09/17/txt2tags-in-geany-editor/">contributor</a>, now comes with a nice solution for those inspired LaTeX lovers who prefer the simple txt2tags markup: <a href="http://anamnese.online.fr/site2/textallion/samples/presentation.html">TeXtallion</a>.
 
 [caption id="attachment_141" align="aligncenter" width="483" caption="TeXtallion in action"]<a href="http://anamnese.online.fr/site2/textallion/samples/presentation.html"><img class="size-full wp-image-141" title="kate txt2tags textallion" src="http://txt2tags.files.wordpress.com/2010/08/kate_txt2tags_textallion_part.png" alt="" width="483" height="334" /></a>[/caption]
 <p style="text-align:center;"></p>
@@ -4992,8 +4992,8 @@ Bold, italic, underligned, striked letters, colored text, page numbering, top he
   <dc:creator>aurelio</dc:creator>
   <guid isPermaLink="false">http://txt2tags.wordpress.com/?p=166</guid>
   <description/>
-  <content:encoded><![CDATA[<img class="alignright" src="http://txt2tags.sourceforge.net/team/img/shagi.jpg" alt="" width="64" height="64" /><strong>Ales Zabala Alava (Shagi)</strong> has made a nice add-on (transform) to <a href="http://plone.org/">Plone</a>, to integrate txt2tags into it. Here's the README file description:
-<blockquote>This package gives Plone users the ability to use <a href="http://txt2tags.sourceforge.net/markup.html">txt2tags syntax</a> in their Plone site. Currently Plone 3.3 and 4.1 are supported.
+  <content:encoded><![CDATA[<img class="alignright" src="http://txt2tags.org/team/img/shagi.jpg" alt="" width="64" height="64" /><strong>Ales Zabala Alava (Shagi)</strong> has made a nice add-on (transform) to <a href="http://plone.org/">Plone</a>, to integrate txt2tags into it. Here's the README file description:
+<blockquote>This package gives Plone users the ability to use <a href="http://txt2tags.org/markup.html">txt2tags syntax</a> in their Plone site. Currently Plone 3.3 and 4.1 are supported.
 
 In this transform the first three lines of txt2tags files are ignored letting Plone setting the title, author, etc.</blockquote>
 Shagi also adds that:
@@ -5071,7 +5071,7 @@ Read the article at: <a href="http://freesoftware.zona-m.net/how-transform-almo
   <dc:creator>aurelio</dc:creator>
   <guid isPermaLink="false">http://txt2tags.wordpress.com/?p=176</guid>
   <description/>
-  <content:encoded><![CDATA[<img class="alignright" src="http://txt2tags.sourceforge.net/team/img/eric.jpg" alt="" width="64" height="64" /><a href="http://anamnese.online.fr/site2/index.php?page=txt2tags">Eric Forgeot</a> never stops. Now he wrote a plugin/recipe for PmWiki, so you, dear txt2tags user, now can use our beloved markup in one more tool! From the <a href="http://www.pmwiki.org/wiki/Cookbook/Txt2tags">plugin page</a>:
+  <content:encoded><![CDATA[<img class="alignright" src="http://txt2tags.org/team/img/eric.jpg" alt="" width="64" height="64" /><a href="http://anamnese.online.fr/site2/index.php?page=txt2tags">Eric Forgeot</a> never stops. Now he wrote a plugin/recipe for PmWiki, so you, dear txt2tags user, now can use our beloved markup in one more tool! From the <a href="http://www.pmwiki.org/wiki/Cookbook/Txt2tags">plugin page</a>:
 <blockquote>This recipe adds txt2tags formatting to the pmWiki markup. Most txt2tags tags are translated to their pmWiki equivalent and then passed through the standard PmWiki engine.
 
 <a href="http://www.pmwiki.org/wiki/Cookbook/Txt2tags">http://www.pmwiki.org/wiki/Cookbook/Txt2tags</a></blockquote>]]></content:encoded>
@@ -5212,7 +5212,7 @@ It keeps all the page data as pure content-only .txt files right in the filesyst
 
 <a href="http://etxt2tags.appspot.com/"><img class="aligncenter size-full wp-image-182" title="markitup" src="http://txt2tags.files.wordpress.com/2010/10/markitup.png" alt="" width="581" height="301" /></a>
 
-<img class="alignright" src="http://txt2tags.sourceforge.net/team/img/fgallaire.jpg" alt="" width="64" height="64" /><a href="http://fgallaire.flext.net">Florent Gallaire</a> has added txt2tags support for <a href="http://markitup.jaysalvat.com/">markitUp!</a>, the jQuery universal markup editor. Now you can add to any website a real nice text editor that understands txt2tags code. With the correct setup, you can also install txt2tags on it and your text can be converted online. Super!
+<img class="alignright" src="http://txt2tags.org/team/img/fgallaire.jpg" alt="" width="64" height="64" /><a href="http://fgallaire.flext.net">Florent Gallaire</a> has added txt2tags support for <a href="http://markitup.jaysalvat.com/">markitUp!</a>, the jQuery universal markup editor. Now you can add to any website a real nice text editor that understands txt2tags code. With the correct setup, you can also install txt2tags on it and your text can be converted online. Super!
 
 Florent even set up a demo site, where you can test his creation online: <a href="http://etxt2tags.appspot.com/">http://etxt2tags.appspot.com/</a>]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -7902,7 +7902,7 @@ Is there a plan to support for ConTEXt Minimals? I think it's easier for simple 
     <wp:comment_author_IP>187.39.46.11</wp:comment_author_IP>
     <wp:comment_date>2009-02-10 12:00:33</wp:comment_date>
     <wp:comment_date_gmt>2009-02-10 15:00:33</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[Not natively, but you can use filters. Example: <a href="http://txt2tags.sourceforge.net/tips.html#tex-greek" rel="nofollow">http://txt2tags.sourceforge.net/tips.html#tex-greek</a>]]></wp:comment_content>
+    <wp:comment_content><![CDATA[Not natively, but you can use filters. Example: <a href="http://txt2tags.org/tips.html#tex-greek" rel="nofollow">http://txt2tags.org/tips.html#tex-greek</a>]]></wp:comment_content>
     <wp:comment_approved>1</wp:comment_approved>
     <wp:comment_type/>
     <wp:comment_parent>7588</wp:comment_parent>

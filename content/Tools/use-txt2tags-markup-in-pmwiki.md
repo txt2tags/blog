@@ -5,7 +5,7 @@ Category: Tools
 Slug: use-txt2tags-markup-in-pmwiki
 Status: published
 
-![](http://txt2tags.sourceforge.net/team/img/eric.jpg)[Eric
+![](http://txt2tags.org/team/img/eric.jpg)[Eric
 Forgeot](http://anamnese.online.fr/site2/index.php?page=txt2tags) never
 stops. Now he wrote a plugin/recipe for PmWiki, so you, dear txt2tags
 user, now can use our beloved markup in one more tool! From the [plugin

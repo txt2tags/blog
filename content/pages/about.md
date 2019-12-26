@@ -14,8 +14,8 @@ choose from.
 Translated to several languages, GPL licensed, written in Python, works
 like a charm in Windows, Linux and Mac.
 
-Jump to the [txt2tags website](http://txt2tags.sourceforge.net/) to
+Jump to the [txt2tags website](http://txt2tags.org/) to
 learn more about the program, or [try now the online
-demo](http://txt2tags.sourceforge.net/online.php).
+demo](http://txt2tags.org/online.php).
 
 Enjoy!

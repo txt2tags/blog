@@ -9,7 +9,7 @@ Hey, China! **Abby Pan** has just translated the Manual Page to your
 language.
 
 Abby's work is already online on the [documentation
-page](http://txt2tags.sourceforge.net/docs.html).
+page](http://txt2tags.org/docs.html).
 
 [![Txt2tags Manual Page in
-Chinese](http://txt2tags.files.wordpress.com/2007/07/man-chinese.png)](http://txt2tags.sourceforge.net/zh/manpage-zh.html)
+Chinese](http://txt2tags.files.wordpress.com/2007/07/man-chinese.png)](http://txt2tags.org/zh/manpage-zh.html)

@@ -12,7 +12,7 @@ text editor](http://macromates.com/), listen on and prepare the
 I'm a recently converted TextMate user and as you may wonder, to edit
 txt2tags files is part of my **everyday** routine.
 [Websites](http://aurelio.net/en/), articles and books, everything is
-[t2t-marked](http://txt2tags.sourceforge.net/markup.html).
+[t2t-marked](http://txt2tags.org/markup.html).
 
 For a few days I've used TextMate on the "black & white mode" and that
 was real unsexy. A decade of [Vim](http://www.vim.org) hardcore use told
@@ -62,10 +62,10 @@ Besides the colors for the txt2tags markup, we also have:
     to-be-typed text.
 
 -   **Tab Triggers for all settings and macros**Never read the [Txt2tags
-    User Guide](http://txt2tags.sourceforge.net/userguide/) anymore.
+    User Guide](http://txt2tags.org/userguide/) anymore.
     Just type the setting name followed by a Tab to have all it's
     arguments shown. And what about those [funky "%Y
-    %m"](http://txt2tags.sourceforge.net/userguide/date.html#7_1) for
+    %m"](http://txt2tags.org/userguide/date.html#7_1) for
     the %%date macro? No problem, type "date" and hit Tab.
 -   **Drag'n'drop support**Images, other txt2tags files and HTML files.
     Just drag them to the editor and watch the magic happening!

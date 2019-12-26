@@ -5,7 +5,7 @@ Category: Tools
 Slug: txt2tags-latex-poetry-textallion
 Status: published
 
-![](http://txt2tags.sourceforge.net/team/img/eric.jpg)[Eric
+![](http://txt2tags.org/team/img/eric.jpg)[Eric
 Forgeot](http://anamnese.online.fr/site2/index.php?page=txt2tags), our
 [tireless](http://txt2tags.wordpress.com/2010/03/03/txt2tags-on-facebook/)
 [contributor](http://txt2tags.wordpress.com/2009/09/17/txt2tags-in-geany-editor/),

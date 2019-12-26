@@ -8,7 +8,7 @@ Status: published
 Stefano D'Archino [told
 us](http://sourceforge.net/mailarchive/message.php?msg_name=1181733636.6458.3.camel%40amilo)
 about his new creation: the [txt2tags language file for
-gedit](http://txt2tags.sourceforge.net/tools/txt2tags-gedit.lang).
+gedit](http://txt2tags.org/tools/txt2tags-gedit.lang).
 
 His instructions follows:
 

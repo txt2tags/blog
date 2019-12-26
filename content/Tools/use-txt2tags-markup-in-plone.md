@@ -5,13 +5,13 @@ Category: Tools
 Slug: use-txt2tags-markup-in-plone
 Status: published
 
-![](http://txt2tags.sourceforge.net/team/img/shagi.jpg)**Ales Zabala
+![](http://txt2tags.org/team/img/shagi.jpg)**Ales Zabala
 Alava (Shagi)** has made a nice add-on (transform) to
 [Plone](http://plone.org/), to integrate txt2tags into it. Here's the
 README file description:
 
 > This package gives Plone users the ability to use [txt2tags
-> syntax](http://txt2tags.sourceforge.net/markup.html) in their Plone
+> syntax](http://txt2tags.org/markup.html) in their Plone
 > site. Currently Plone 3.3 and 4.1 are supported.
 >
 > In this transform the first three lines of txt2tags files are ignored

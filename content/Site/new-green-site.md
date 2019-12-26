@@ -7,7 +7,7 @@ Status: published
 
 We've had enough of that [gray/blue scary
 site](http://txt2tags.sf.net/index-old.html), don't we? The [new
-txt2tags site](http://txt2tags.sourceforge.net) is green and was
+txt2tags site](http://txt2tags.org) is green and was
 redesigned from scratch.
 
 The problem with the old site (besides its ugliness) was that the menu

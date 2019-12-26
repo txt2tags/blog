@@ -9,7 +9,7 @@ Dmitri Popov, the kind txt2tags user that [wrote an interesting article
 on
 Linux.com](http://txt2tags.wordpress.com/2006/08/25/quit-your-text-processor/),
 strikes again! This time he created an extension so you can use the
-beloved [txt2tags markup](http://txt2tags.sourceforge.net/markup.html)
+beloved [txt2tags markup](http://txt2tags.org/markup.html)
 into [OpenOffice.org](http://www.openoffice.org)!
 
 I'll quote Dmitri:

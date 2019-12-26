@@ -5,11 +5,11 @@ Category: Translations
 Slug: new-translation-finnish
 Status: published
 
-![](http://txt2tags.sourceforge.net/team/img/mikko.jpg)Hello Finland and
+![](http://txt2tags.org/team/img/mikko.jpg)Hello Finland and
 Finnish readers!
 
 Your friend **Mikko J Piippo** from Helsinki has translated the Sample
 file and the program interface (potfile) for you.
 
 The work is already online on the [documentation
-page](http://txt2tags.sourceforge.net/docs.html).
+page](http://txt2tags.org/docs.html).

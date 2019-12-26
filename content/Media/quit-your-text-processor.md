@@ -19,4 +19,4 @@ Check it out! [Minimalist tools for
 writers](http://www.linux.com/archive/feed/56506) by Dmitri Popov.
 
 For more detailed information, read the [Writing Books with
-Txt2tags](http://txt2tags.sourceforge.net/writing-book.html) document.
+Txt2tags](http://txt2tags.org/writing-book.html) document.
